@@ -1,0 +1,22 @@
+# phpstorm project files
+.idea
+
+# Netbeans project files
+nbproject
+
+# Zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Generated files
+.cache
+.config
+.local
+.env
+.bash_history
+
+# common
